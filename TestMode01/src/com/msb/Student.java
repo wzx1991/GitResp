@@ -10,7 +10,7 @@ public class Student {
     private int age;
     private double height ;
     private String name ;
-
+    private String origin;
 
     public Student(int age, double height, String name) {
         this.age = age;
