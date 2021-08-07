@@ -11,6 +11,8 @@ public class Student {
     private double height ;
     private String name ;
     private String origin;
+    private String apple ;
+
 
     public Student(int age, double height, String name) {
         this.age = age;
